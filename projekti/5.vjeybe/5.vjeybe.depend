@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1495020264 source:c:\users\belial\desktop\parameters.cpp
+	"parameters.h"
+
+1495020264 c:\users\belial\desktop\parameters.h
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<cmath>
+	<cctype>
+	<clocale>
+	<stack>
+	<iterator>
+	<sstream>
+	<cstring>
+

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1495630831 source:/.home/student1/fiskrin/Objektno cpp/10.vjezbe/composite-visitor-iterator/cvi.cpp
+	"cvi.h"
+	<typeinfo>
+
+1495630011 source:/.home/student1/fiskrin/Objektno cpp/10.vjezbe/composite-visitor-iterator/main.cpp
+
+1495631153 /.home/student1/fiskrin/Objektno cpp/10.vjezbe/composite-visitor-iterator/cvi.h
+	<string>
+	<typeinfo>
+	<vector>
+
+1496224886 source:c:\users\belial\documents\programiranje\projekti\compsite-visitor-iterator\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	"cvi.h"
+
+1496159330 source:c:\users\belial\documents\programiranje\projekti\compsite-visitor-iterator\cvi.cpp
+	"cvi.h"
+	"visitor.h"
+	<typeinfo>
+	<iostream>
+	<fstream>
+	<stdexcept>
+
+1496159880 c:\users\belial\documents\programiranje\projekti\compsite-visitor-iterator\cvi.h
+	<string>
+	<typeinfo>
+	<vector>
+	<iostream>
+	<istream>
+	<stdexcept>
+	"visitor.h"
+	"memento.h"
+
+1496159411 c:\users\belial\documents\programiranje\projekti\compsite-visitor-iterator\visitor.h
+	<vector>
+	<stack>
+	"memento.h"
+
+1496157319 c:\users\belial\documents\programiranje\projekti\compsite-visitor-iterator\memento.h
+	"visitor.h"
+

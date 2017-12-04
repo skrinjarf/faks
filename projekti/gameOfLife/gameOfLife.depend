@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490723831 source:c:\users\belial\documents\programiranje\table.cpp
+	"table.h"
+	<iostream>
+
+1490723503 c:\users\belial\documents\programiranje\table.h
+	<iostream>
+

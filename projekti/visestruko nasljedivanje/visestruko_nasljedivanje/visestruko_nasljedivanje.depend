@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1496605543 source:c:\users\belial\documents\programiranje\projekti\visestruko nasljedivanje\visestruko_nasljedivanje\main.cpp
+	"vn.h"
+	<iostream>
+
+1496604911 c:\users\belial\documents\programiranje\projekti\visestruko nasljedivanje\visestruko_nasljedivanje\vn.h
+	<vector>
+	<string>
+	<chrono>
+	<iostream>
+
+1496605261 source:c:\users\belial\documents\programiranje\projekti\visestruko nasljedivanje\visestruko_nasljedivanje\vn.cpp
+	"vn.h"
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<cmath>
+

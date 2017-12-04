@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495025358 source:/.home/student1/dostipi/objektno programiranje/Composite i SFML/composite/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"composite.h"
+
+1495026073 /.home/student1/dostipi/objektno programiranje/Composite i SFML/composite/composite.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<memory>
+
+1495028958 source:c:\users\belial\documents\programiranje\projekti\composite\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"composite.h"
+
+1495029672 c:\users\belial\documents\programiranje\projekti\composite\composite.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<memory>
+

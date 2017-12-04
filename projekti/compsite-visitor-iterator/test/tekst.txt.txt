@@ -1,0 +1,44 @@
+= Programiranje u jeziku C++
+
+
+
+== Klase  i apstraktni tipovi podataka
+
+Klasa u C++-u je element jezika kojim se implementiraju korisniÄTki tipovi podataka.
+U sljedeÄ‡im sekcijama opisujemo kako se klasa konstruira i koristi. Pri tome klasu promatramo  
+izoliranu od ostalih klasa kako bismo detaljno opisali njeno funkcioniranje. Kasnije Ä‡emo 
+se vratiti  vaLlnom pitanju meÄ‘udjelovanja razliÄTitih klasa.  
+
+
+
+== Objektno orijentirano programiranje
+
+
+
+
+
+
+
+*Objektno orijentirano programiranje* je danas dominantna tehnika programiranja koja je  na tom  mjestu u
+najveÄ‡oj mjeri zamijenila _proceduralno programiranje._ Za razumijevanje objektne tehnike  potrebno je 
+razjasniti motivaciju da se pronaÄ‘e bolja tehnika od proceduralnog programiranja. 
+
+
+
+UobiÄTajeno je da se sloLleni programski zadaci razlaLlu na niz jednostavnijih zadataka koje je moguÄ‡e 
+kodirati neovisno jedan o drugom i zatim se cijeli program realizira pomoÄ‡u potprograma 
+(procedura) na koje je razloLlen. To je prirodna tehnika kojom bismo svaku sloLlenu 
+zadaÄ‡u sveli na rjeL?avanje niza jednostavnijih zadaÄ‡a. Pri tome razlaganje na posve neovisne cjeline 
+ÄTesto nije moguÄ‡e pa stoga potprogrami, koje Ä‡emo zvati procedure, moraju meÄ‘usobno komunicirati,
+izmjenjivati podatke, biti pozvani u odreÄ‘enom redosljedu i sliÄTno. Programski jezik koji se koristi
+u implementaciji mora nuditi element jezika za implementaciju procedure. U proceduralnim jezicima kao
+L?to je C taj je element funkcija; svaka procedura odgovara jednom funkcijskom pozivu. 
+
+
+
+
+UspjeL?ni programi doLlivljavaju stalne modifikacije zbog novih potreba i zahtjeva  korisnika. Modifikacije
+su prisutne i pri inicijalnoj konstrukciji programa jer se zahtjevi ÄTesto mijenjaju u fazi analize 
+programskog zadatka. Stoga je kljuÄTna kvaliteta programa lakoÄ‡a kojom se modificira. Programi koje je teL?ko 
+mijenjati  obiÄTno imaju kratak vijek trajanja. Korisnici ih napuL?taju i traLle druge aplikacije kada viL?e ne mogu odgovoriti
+njihovim novim potrebama. 
