@@ -1,0 +1,181 @@
+
+body{
+  margin:0px;
+}
+/*header*/
+
+ H1 {
+   background-color:  #308244; /*tamno zelena*/
+   color: white;
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 500%;
+   clear:both;
+   margin:0 0 8px 0;
+   padding: 20px;
+   text-shadow: 3px 3px 3px black;
+ }
+.logoslika{
+text-align: center;
+}
+
+/*navigacijska traka*/
+nav{
+  background-color: #308244;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  box-shadow: 0px 5px 5px #aaa
+
+}
+nav a{
+  color:white;
+  font-family: sans-serif;
+  padding: 5px 3px 5px 3px;
+  margin-left: 3px;
+  text-decoration:none;
+  text-shadow: 3px 3px 3px black;
+
+}
+
+nav a:hover{
+  background-color: #489B4B;
+}
+
+
+/*glavne obavjesti */
+
+ul{
+ width: 95%;
+}
+
+li{
+  margin: 10px;
+  border:solid 1px #489B4B;
+  border-radius: 15px 40px;
+}
+
+li h4 {
+  background-color: #489B4B; /*svijetlo zelena*/
+  color: white;
+    padding: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: 0px;
+  border-radius:15px 40px 0px 0px;
+}
+li p {
+  background-color: #ffff80;
+  font-weight: 300;
+  padding: 10px;
+  margin: 0px;
+  border-radius: 0px 0px 15px 40px;
+}
+
+.lijevo {
+  float:left;
+  width: 70%;
+  margin-top: 20px;
+}
+/* bocni notificationi */
+
+aside {
+ float:right;
+ margin: 20px 10px 20px 10px;
+ width: 20%;
+}
+
+
+section.bocni{
+  border:solid 1px #489B4B;
+  margin: 5px 5px 10px 0px;
+  box-shadow: 7px 7px 7px #aaa
+}
+
+H3.bocni_naslov {
+  text-align: left;
+  background-color: #308244;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+}
+
+aside section{
+  margin-top: 7px;
+}
+
+aside section p {
+  background-color: #ffff80;
+  font-weight: 300;
+  padding: 10px;
+  margin: 0px;
+}
+
+/*tablica sa članovima */
+table caption{
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  font-family:sans-serif;
+  font-size: 250%;
+  font-weight: bold;
+}
+
+table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+
+table, th, td{
+  border: solid 1px black;
+  border-collapse: collapse;
+}
+
+th, td{
+  padding: 7px 20px 7px 20px;
+}
+td{
+  margin-left: 15px;
+  margin-right:15px;
+  background-color: #ffff80;
+}
+th{
+  background-color: #489B4B;
+  color:white;
+}
+
+/*kontakt*/
+
+section.kontakt h3{
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+section.kontakt a{
+  color:black;
+  font-family: sans-serif;
+  padding: 5px 3px 5px 3px;
+  text-decoration:underline;
+  text-shadow: 3px 3px 3px #aaa;
+  margin-bottom: 0px;
+}
+
+section.kontakt a:hover{
+  color:#308244;
+}
+
+section.kontakt li{
+  border: none;
+  background-color: #ffff80;
+  border-radius: 5px;
+  width:50%;
+  margin-left: 25%;
+}
+
+section.kontakt ul{
+  margin-top:0px;
+}
