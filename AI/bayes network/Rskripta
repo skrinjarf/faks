@@ -1,0 +1,13 @@
+library(gRain)
+yn <- c("yes","no");
+B <- cptable(~Burglary, values=c(0.001,0.999), levels=yn)
+E <- cptable(~Earthquake, values=c(0.002,0.998), levels=yn)
+A <- cptable(~Alarm|Burglary:Earthquake, values=c(0.95,0.94,0.29,0.001,0.05,0.06,0.71,0.999), levels=yn) 
+J <- cptable(~JohnCalls|Alarm, values=c(0.90,0.05,0.10,0.95), levels=yn)
+M <- cptable(~MarryCalls|Alarm, values=c(0.70,0.01,0.30,0.99), levels=yn)
+cpt.list <- compileCPT(list(B, E, A, J, M))
+cpt.list
+bnet <- grain(cpt.list)
+bnet <- compile(bnet)
+bnet
+plot(bnet)
