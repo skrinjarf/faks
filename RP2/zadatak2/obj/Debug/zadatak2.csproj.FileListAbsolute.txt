@@ -1,0 +1,6 @@
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\bin\Debug\zadatak2.exe.config
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\bin\Debug\zadatak2.exe
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\bin\Debug\zadatak2.pdb
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\obj\Debug\zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\obj\Debug\zadatak2.exe
+C:\Users\fiskrin\Documents\Visual Studio 2015\Projects\zadatak2\obj\Debug\zadatak2.pdb
